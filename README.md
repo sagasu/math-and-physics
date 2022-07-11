@@ -1,5 +1,4 @@
-# math-and-physics
-math and physics
+Different math and physics micro-projects.
 
 # Run LaTeX in browser
 
